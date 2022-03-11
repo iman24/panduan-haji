@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Panduan Haji</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="admob_app_id">ca-app-pub-5999119101523983~7801676235</string>
+    <string name="applovin_sdk_key">x5ImfykxaMWs-ntpF6fuNGlFBtC9zBJuGcewTMs8kN_h9sVOz9HLQ0abtnmqy4iDgM8Ek_MRML7WCdvAnBVBB4</string>
 </resources>

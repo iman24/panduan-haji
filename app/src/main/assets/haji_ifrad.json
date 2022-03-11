@@ -5,7 +5,7 @@
       "filename": "file:///android_asset/content/0-PersiapanNonteknis.html"
     },
     {
-      "title": "Ihram Haji & Umrah",
+      "title": "Ihram Haji",
       "filename": "file:///android_asset/content/1-ihram_a.html"
     },
     {
@@ -37,10 +37,6 @@
       "filename": "file:///android_asset/content/6-Tahallul_a.html"
     },
     {
-      "title": "Mabit II di Mina",
-      "filename": "file:///android_asset/content/7-MabitMina_a.html"
-    },
-    {
       "title": "Melempar Jumrah Ula dan Wusta",
       "filename": "file:///android_asset/content/5-Jumrah_a.html"
     },
@@ -57,7 +53,23 @@
       "filename": "file:///android_asset/content/6-Tahallul_a.html"
     },
     {
-      "title": "Thawaf Wada",
+      "title": "Ihram Umrah",
+      "filename": "file:///android_asset/content/1-ihram_a.html"
+    },
+    {
+      "title": "Thawaf Umrah",
+      "filename": "file:///android_asset/content/2-Thawaf_a-Qudum.html"
+    },
+    {
+      "title": "Sa'i Umrah",
+      "filename": "file:///android_asset/content/3-Sai_a.html"
+    },
+    {
+      "title": "Tahalul Umrah",
+      "filename": "file:///android_asset/content/6-Tahallul_a.html"
+    },
+    {
+      "title": "Thawaf Wada'",
       "filename": "file:///android_asset/content/2-Thawaf_a-Wada.html"
     },
     {

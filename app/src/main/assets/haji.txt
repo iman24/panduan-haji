@@ -1,0 +1,11 @@
+Haji Qiran
+Persiapan,Ihram Haji & Umrah,Thawaf qudum, sai setekah thawaf qudum,mabit di mina,wukuf di arafah,mabit di muzdalifah,melempar jumrah aqabah, Tahalul Awal, Mabit II di Mina, Melempar Jumrah Ula dan Wusta, Thawaf Ifadhah, Sa'i, Tahahlul Qubra, Thawaf Wada, Kepulangan
+
+Haji Ifrad
+Persiapan,Ihram Haji,Thawaf qudum, sai setekah thawaf qudum,mabit di mina,wukuf di arafah,mabit di muzdalifah,melempar jumrah aqabah, Tahalul Awal, Melempar Jumrah Ula dan Wusta, Thawaf Ifadhah, Sa'i, Tahahlul Qubra, Ihram Umrah, Thawaf Umrah, Sa'i Umrah, Tahalul Umrah, Thawaf Wada, Kepulangan
+
+Haji Tamatu
+Persiapan,Ihram Umrah,Thawaf Umrah, Sa'i Umrah, Tahalul Umrah, Ihram haji, mabit di mina,wukuf di arafah,mabit di muzdalifah,melempar jumrah aqabah, Tahalul Awal, Melempar Jumrah Ula dan Wusta, Thawaf Ifadhah, Sa'i, Tahahlul Qubra, Thawaf Wada, Kepulangan
+
+Umrah
+Persiapan,Ihram Umrah,Thawaf Umrah, Sa'i Umrah, Tahalul Umrah, Kepulangan

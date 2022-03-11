@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Persiapan",
+      "filename": "file:///android_asset/content/0-PersiapanNonteknis.html"
+    },
+    {
+      "title": "Ihram Umrah",
+      "filename": "file:///android_asset/content/1-ihram_a.html"
+    },
+    {
+      "title": "Thawaf Umrah",
+      "filename": "file:///android_asset/content/2-Thawaf_a-Qudum.html"
+    },
+    {
+      "title": "Sai Umrah",
+      "filename": "file:///android_asset/content/3-Sai_a.html"
+    },
+    {
+      "title": "Tahalul Umrah",
+      "filename": "file:///android_asset/content/6-Tahallul_a.html"
+    },
+    {
+      "title": "Kepulangan",
+      "filename": "file:///android_asset/content/9-Kepulangan.html"
+    }
+  ]
+}

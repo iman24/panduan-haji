@@ -66,6 +66,7 @@
            android:gravity="left"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
+           android:onClick="hajiIfrad"
            android:text="Haji Ifrad"/>
 
        <Button
@@ -82,6 +83,7 @@
            android:gravity="left"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
+           android:onClick="hajiTamattu"
            android:text="Haji Tamattu"/>
 
        <Button
@@ -98,8 +100,21 @@
            android:gravity="left"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
+           android:onClick="umrah"
            android:text="Umrah"/>
+
+   <com.solodroid.ads.sdk.ui.MediumNativeAdView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp" />
+
    </LinearLayout>
 
+
+
+    <com.solodroid.ads.sdk.ui.BannerAdView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"/>
 
 </RelativeLayout>

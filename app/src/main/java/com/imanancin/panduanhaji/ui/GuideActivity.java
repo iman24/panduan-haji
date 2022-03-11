@@ -35,32 +35,30 @@ public class GuideActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_guide);
 
+        // ambil informasi dari intent
         String type_haji = getIntent().getStringExtra("type_haji");
 
+        // load data asset
         loadUrlData(type_haji);
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewPager);
         guidePagerAdapter = new GuidePagerAdapter(getSupportFragmentManager(), guides);
         viewPager.setAdapter(guidePagerAdapter);
-
-
-
     }
 
+
+    /**
+     * Baca data dari asset
+     * @param typ
+     */
     public void loadUrlData(String typ) {
-
-
         try {
             JSONObject jsonObject = new JSONObject(loadJSONFromAsset(typ));
-//            Log.e("JSONX", loadJSONFromAsset());
             JSONArray array = jsonObject.getJSONArray("items");
             for (int i = 0; i < array.length() ; i++) {
                 JSONObject jo = array.getJSONObject(i);
                 Guide guide = new Guide(jo.getString("title"),jo.getString("filename") );
                 guides.add(guide);
             }
-
-
-//            adapter.setData(wallLists);
         } catch (JSONException e) {
 
             e.printStackTrace();

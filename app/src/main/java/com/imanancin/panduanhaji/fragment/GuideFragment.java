@@ -66,8 +66,7 @@ public class GuideFragment extends Fragment {
         webSettings.setAllowFileAccess(true);
         webSettings.setAppCacheEnabled(true);
         webView.loadUrl(GuidePagerAdapter.guides.get(mParam1).getFileName());
-
         return view;
-        // define webview
+
     }
 }
