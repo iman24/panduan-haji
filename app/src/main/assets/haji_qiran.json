@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "title": "Perisapan",
+      "filename": "file:///android_asset/content/0-PersiapanNonteknis.html"
+    },
+    {
+      "title": "Ihram Haji & Umrah",
+      "filename": "file:///android_asset/content/1-ihram_a.html"
+    },
+    {
+      "title": "Thawaf Qudum",
+      "filename": "file:///android_asset/content/2-Thawaf_a-Qudum.html"
+    },
+    {
+      "title": "Sai Setelah Thawaf Qudum",
+      "filename": "file:///android_asset/content/3-Sai_a.html"
+    },
+    {
+      "title": "Mabit di Mina",
+      "filename": ""
+    },
+    {
+      "title": "Wukuf di Arafah",
+      "filename": ""
+    },
+    {
+      "title": "Mabit di Muzdaifah",
+      "filename": ""
+    },
+    {
+      "title": "Melempar Jumrah Aqabah",
+      "filename": ""
+    },
+    {
+      "title": "Tahalul Awal",
+      "filename": ""
+    },
+    {
+      "title": "Mabit II di Mina",
+      "filename": ""
+    },
+    {
+      "title": "Melempar Jumrah Ula dan Wusta",
+      "filename": ""
+    },
+    {
+      "title": "Thawaf Ifadhah",
+      "filename": ""
+    },
+    {
+      "title": "Sa'i",
+      "filename": ""
+    },
+    {
+      "title": "Tahalul Qubra",
+      "filename": ""
+    },
+    {
+      "title": "Thawaf Wada",
+      "filename": ""
+    },
+    {
+      "title": "Kepulangan",
+      "filename": ""
+    }
+  ]
+}

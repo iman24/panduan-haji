@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#201E1E"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pilih Jenis Haji"
+        android:textSize="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/white"
+        />
+
+    <View
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/judul"
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:background="@drawable/underline_orange"/>
+
+
+   <LinearLayout
+       android:layout_marginHorizontal="50dp"
+       android:layout_marginTop="50dp"
+       android:layout_below="@+id/judul"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+       <com.google.android.material.button.MaterialButton
+           style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+           app:iconTint="#FF9800"
+           app:iconGravity="end"
+           app:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+           app:strokeWidth="1dp"
+           android:textColor="#ffffff"
+           app:cornerRadius="5dp"
+           app:strokeColor="#FF9800"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="left"
+           android:paddingVertical="20dp"
+           android:text="Haji Qiran"
+           android:textSize="22sp"
+           android:onClick="hajiQiran"
+           />
+
+       <Button
+           app:iconTint="#FF9800"
+           style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+           app:iconGravity="end"
+           app:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+           app:strokeWidth="1dp"
+           android:textColor="#ffffff"
+           app:cornerRadius="5dp"
+           app:strokeColor="#FF9800"
+           android:textSize="22dp"
+           android:paddingVertical="20dp"
+           android:gravity="left"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Haji Ifrad"/>
+
+       <Button
+           app:iconTint="#FF9800"
+           app:iconGravity="end"
+           app:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+           style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+           app:strokeWidth="1dp"
+           android:textColor="#ffffff"
+           app:cornerRadius="5dp"
+           app:strokeColor="#FF9800"
+           android:textSize="22dp"
+           android:paddingVertical="20dp"
+           android:gravity="left"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Haji Tamattu"/>
+
+       <Button
+           app:iconTint="#FF9800"
+           app:iconGravity="end"
+           app:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+           app:strokeWidth="1dp"
+           style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+           android:textColor="#ffffff"
+           app:cornerRadius="5dp"
+           app:strokeColor="#FF9800"
+           android:textSize="22dp"
+           android:paddingVertical="20dp"
+           android:gravity="left"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Umrah"/>
+   </LinearLayout>
+
+
+</RelativeLayout>
